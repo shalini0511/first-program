@@ -7,6 +7,10 @@ namespace first_program
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("welcome to training");
+            Console.WriteLine("branching done");
+            Console.WriteLine("difference");
+            Console.ReadLine();
         }
     }
 }

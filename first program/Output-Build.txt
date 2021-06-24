@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: first program, Configuration: Debug ------
+1>  first program -> C:\Users\HP\source\repos\first program\first program\bin\Debug\netcoreapp3.1\first program.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
