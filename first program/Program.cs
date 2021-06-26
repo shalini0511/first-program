@@ -10,6 +10,7 @@ namespace first_program
             Console.WriteLine("welcome to training");
             Console.WriteLine("branching done");
             Console.WriteLine("difference");
+            console.writeLine("merging using pull request"):
             Console.ReadLine();
         }
     }
